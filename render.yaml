@@ -11,6 +11,6 @@ services:
       - key: PORT # ngrok port
         value: 22
       - key: NGROK_TOKEN # ngrok token
-        sync: false
+        sync: 2sHvP2xt2ooJCk0AnU8btauym5g_33LJp7F2T8f2zHiTRgGnP
       - key: REGION # ngrok region
-        sync: false
+        sync: ap
